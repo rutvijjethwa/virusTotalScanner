@@ -13,5 +13,5 @@ def urlScanner(targeturl, keyString):
     pprint(json_response)
     return json_response.get('url')
 
-if __name__ == '__name__':
+if __name__ == '__main__':
     pass

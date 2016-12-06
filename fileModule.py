@@ -17,5 +17,5 @@ def fileScanner(fileLocation, publicKey):
     return json_response.get('resource')
 
 
-if __name__ == '__name__':
+if __name__ == '__main__':
     pass

@@ -1,4 +1,3 @@
-from pprint import pprint
 import requests
 import os.path
 import time
